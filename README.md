@@ -1,6 +1,8 @@
 # timecapsule
 Send secrets into the future
 
+**not ready yet**
+
 ## About
 TimeCapsule is a cryptographic tool that allows you to encrypt messages that can only be decrypted after a certain time. This allows you to send messages to the future, and guarantee that they will not be read until a specific date.
 
